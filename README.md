@@ -1,7 +1,6 @@
-### Hi there 👋 
-### I'm Shreya Lunkad
+### Hi there 👋 I'm Shreya Lunkad
 
-### I'm a Data Scientist
+### I'm a Data Scientist 
 <!--
 **slunkad/slunkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
