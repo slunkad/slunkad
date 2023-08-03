@@ -1,17 +1,12 @@
-### Hi there 👋 I'm Shreya Lunkad
+<h1 align="center">Hi👋, I'm <a href="https://varunkhalate.me/">Shreya Lunkad</a></h1>
 
-### I'm a Data Scientist 
-<!--
-**slunkad/slunkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📍 I am Data Scientist with proficiency in Python, SQL and all things Data.
+
+🎓 I am currently pursuing my Masters in Information Systems Management at Carnegie Mellon University.
+
+📫 Reach me at shreyalunkad20@gmail.com
+
